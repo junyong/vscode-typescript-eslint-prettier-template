@@ -1,2 +1,2 @@
-# vscode-typescript-eslint-preiiter-template
+# vscode-typescript-eslint-prettier-template
 
